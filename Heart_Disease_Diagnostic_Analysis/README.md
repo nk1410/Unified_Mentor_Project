@@ -1,5 +1,6 @@
 <h1>Heart Disease Diagnostic Analysis</h1>
 
+
 <p>
   This project focuses on the analysis of heart disease data to identify key factors associated with heart disease risk and to develop a predictive model using logistic regression. The analysis was performed using Python and various libraries, including Pandas, Matplotlib, and Seaborn. The dataset used contains 303 records and 14 features.
 </p>
@@ -31,6 +32,10 @@
 <h2>Results</h2>
 <p>
   The analysis revealed that features such as chest pain type, maximum heart rate, and ST depression are strong predictors of heart disease. The logistic regression model achieved an accuracy of 85.7%, indicating its effectiveness in predicting heart disease based on the provided features.
+</p>
+
+<p align="center">
+  <img src="https://github.com/nk1410/Unified_Mentor_Project/blob/main/Atilq_Hospitality_Analysis/Screenshot%202024-08-19%20163823.png" alt="Dashboard Screenshot">
 </p>
 
 <h2>Conclusion</h2>
