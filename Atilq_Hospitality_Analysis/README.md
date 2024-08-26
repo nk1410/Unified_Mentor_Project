@@ -1,7 +1,7 @@
 <h1 align="center">AtilQ Hospitality Analysis Report</h1>
 
 <p align="center">
-  <img src="path-to-your-dashboard-screenshot.png" alt="Dashboard Screenshot">
+  <img src="[path-to-your-dashboard-screenshot.png](https://github.com/nk1410/Unified_Mentor_Project/blob/main/Atilq_Hospitality_Analysis/Screenshot%202024-08-19%20163823.png)" alt="Dashboard Screenshot">
 </p>
 
 <h2>📊 Project Overview</h2>
