@@ -1,45 +1,48 @@
-AtilQ Hospitality Analysis Report
-Overview
-The AtilQ Hospitality Analysis project aims to provide a comprehensive analysis of the performance of various hospitality properties under the AtilQ brand. This analysis focuses on key performance metrics such as revenue, occupancy rates, booking platforms, and customer satisfaction across different cities, room types, and booking statuses. The insights derived from this analysis can help in identifying trends, optimizing operations, and improving overall business performance.
+<h1 align="center">AtilQ Hospitality Analysis Report</h1>
 
-Project Structure
-Data Sources:
+<p align="center">
+  <img src="path-to-your-dashboard-screenshot.png" alt="Dashboard Screenshot">
+</p>
 
-The data used for this analysis includes property revenue, booking status, occupancy rates, customer ratings, and more.
-Data was cleaned, processed, and visualized using Power BI.
-Key Metrics Analyzed:
+<h2>📊 Project Overview</h2>
+<p>
+  The AtilQ Hospitality Analysis Report provides an in-depth evaluation of the key performance indicators (KPIs) across various AtilQ properties. This analysis is designed to help the management understand revenue distribution, occupancy trends, booking patterns, and customer satisfaction, ultimately leading to informed decision-making and strategic planning.
+</p>
 
-Revenue Analysis: Breakdown by city, room type, room category, and booking status.
-Occupancy Rates: Comparison across different cities and room types.
-Booking Platforms: Analysis of bookings from various platforms.
-Customer Satisfaction: Assessment based on average ratings for different properties.
-Cancelation Rates: Evaluation of booking cancelation trends and their impact on revenue.
-Dashboard:
+<h2>🛠️ Tools & Technologies</h2>
+<ul>
+  <li><strong>Power BI:</strong> For creating interactive and visual dashboards.</li>
+  <li><strong>Excel/CSV:</strong> For data collection and preprocessing.</li>
+  
+</ul>
 
-A Power BI dashboard was created to visualize and interact with the data. The dashboard includes filters for month, property name, city name, booking status, booking platform, and week to allow for dynamic analysis.
-The dashboard provides a clear overview of the key performance indicators (KPIs) and allows users to drill down into specific segments for detailed analysis.
-Key Findings
-Revenue Insights:
+<h2>📈 Key Features</h2>
+<ul>
+  <li><strong>Revenue Analysis:</strong> Breakdown of revenue by city, room type, booking status, and platform.</li>
+  <li><strong>Occupancy Metrics:</strong> Insights into occupancy rates across different cities and room types.</li>
+  <li><strong>Booking Analysis:</strong> Evaluation of booking sources and their impact on revenue and occupancy.</li>
+  <li><strong>Customer Satisfaction:</strong> Analysis of average ratings and their correlation with revenue and occupancy.</li>
+  <li><strong>Cancelation Insights:</strong> Detailed review of cancelation rates and their effect on overall performance.</li>
+</ul>
 
-Mumbai leads in revenue generation, followed by Bangalore, Hyderabad, and Delhi.
-Luxury rooms contribute the most to revenue, while the Elite room category also performs strongly.
-Occupancy Trends:
+<h2>📋 Problem Statement</h2>
+<p>
+  The objective of this project is to analyze the performance of AtilQ hospitality properties across different cities, room types, and booking platforms to identify key trends, areas of improvement, and opportunities for maximizing revenue and occupancy rates. The analysis aims to address challenges related to revenue distribution, occupancy patterns, customer satisfaction, and operational efficiency.
+</p>
 
-Delhi has the highest occupancy rate among the analyzed cities.
-Overall occupancy stands at 57.9%, with significant variations across different cities and room types.
-Booking Platforms:
+<h2>📊 Dashboard Insights</h2>
+<ul>
+  <li>Mumbai generates the highest revenue among all cities, with a total of 669M.</li>
+  <li>The highest occupancy rate is observed in Delhi at 60.5%.</li>
+  <li>Luxury rooms contribute the most to overall revenue, followed by Elite rooms.</li>
+  <li>The cancelation rate is relatively high at 24.8%, indicating a need for strategic intervention.</li>
+</ul>
 
-The majority of bookings are categorized under "others," with significant contributions from various direct and indirect online channels.
-Cancelation rates are relatively high, impacting overall revenue.
-Customer Satisfaction:
+<h2>💡 Key Takeaways</h2>
+<ul>
+  <li><strong>Revenue Optimization:</strong> Focus on high-performing cities like Mumbai and Delhi.</li>
+  <li><strong>Occupancy Improvement:</strong> Strategies to enhance occupancy in cities with lower rates.</li>
+  <li><strong>Customer Experience:</strong> Improving service quality to boost ratings and reduce cancelations.</li>
+  <li><strong>Operational Efficiency:</strong> Addressing the high cancelation rate to minimize revenue loss.</li>
+</ul>
 
-The average customer rating across properties is 3.62 out of 5, indicating room for improvement in service quality.
-Technologies Used
-Power BI: For data visualization and dashboard creation.
-Excel/CSV: For data collection and preprocessing.
-Usage
-To view the analysis and interact with the dashboard:
-
-Open the Power BI report file (AtilQ_Hospitality_Analysis.pbix).
-Explore the dashboard by applying different filters such as month, property name, and city to analyze specific segments of data.
-Review the insights provided on revenue, occupancy, booking platforms, and customer satisfaction.
