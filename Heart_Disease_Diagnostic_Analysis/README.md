@@ -24,6 +24,7 @@
   <li><strong>Pandas:</strong> Used for data manipulation and analysis.</li>
   <li><strong>Matplotlib and Seaborn:</strong> Employed for data visualization.</li>
   <li><strong>Logistic Regression:</strong> Statistical model used for binary classification.</li>
+  <li><strong>MS Power BI:</strong> Dashboard.</li>
 </ul>
 
 
