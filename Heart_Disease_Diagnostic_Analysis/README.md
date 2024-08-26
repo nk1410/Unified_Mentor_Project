@@ -33,9 +33,9 @@
 <p>
   The analysis revealed that features such as chest pain type, maximum heart rate, and ST depression are strong predictors of heart disease. The logistic regression model achieved an accuracy of 85.7%, indicating its effectiveness in predicting heart disease based on the provided features.
 </p>
-
+<h2>Dashboard</h2>
 <p align="center">
-  <img src="https://github.com/nk1410/Unified_Mentor_Project/blob/main/Atilq_Hospitality_Analysis/Screenshot%202024-08-19%20163823.png" alt="Dashboard Screenshot">
+  <img src="https://github.com/nk1410/Unified_Mentor_Project/blob/main/Heart_Disease_Diagnostic_Analysis/Screenshot%202024-08-21%20170046.png" alt="Dashboard Screenshot">
 </p>
 
 <h2>Conclusion</h2>
