@@ -35,7 +35,7 @@
 </p>
 <h2>Dashboard</h2>
 <p align="center">
-  <img src="https://github.com/nk1410/Unified_Mentor_Project/blob/main/Heart_Disease_Diagnostic_Analysis/Screenshot%202024-08-21%20170046.png" alt="Dashboard Screenshot">
+  <img src="https://github.com/nk1410/Unified_Mentor_Project/blob/main/Heart_Disease_Diagnostic_Analysis/Screenshot%202024-08-27%20123423.png" alt="Dashboard Screenshot">
 </p>
 
 <h2>Conclusion</h2>
