@@ -2,7 +2,7 @@
 
 
 <p>
-  This project focuses on the analysis of heart disease data to identify key factors associated with heart disease risk and to develop a predictive model using logistic regression. The analysis was performed using Python and various libraries, including Pandas, Matplotlib, and Seaborn. The dataset used contains 303 records and 14 features.
+  This project focuses on the analysis of heart disease data to identify key factors associated with heart disease risk and to develop a predictive model using logistic regression. The analysis was performed using Python and various libraries, including Pandas, Matplotlib, and Seaborn. The dataset used contains 1025 records and 14 features.
 </p>
 
 <h2>Project Overview</h2>
