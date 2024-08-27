@@ -10,7 +10,7 @@ During my 2-month internship as a **Data Analyst Intern** at Unified Mentor Pvt.
 <p>This project involved analyzing a heart disease dataset to identify key factors contributing to the risk of heart disease. The analysis focused on key variables such as chest pain type, maximum heart rate, and ST depression to build a predictive model.</p>
 
 <ul>
-    <li><strong>Tools Used:</strong> Python, Pandas, Seaborn, Matplotlib</li>
+    <li><strong>Tools Used:</strong> Python, Pandas, Seaborn, Matplotlib,MS PowerBI</li>
     <li><strong>Key Features:</strong> Analyzing chest pain type, maximum heart rate, and ST depression</li>
     <li><strong>Outcome:</strong> Developed a logistic regression model with an accuracy of approximately 85.7%</li>
 </ul>
@@ -21,7 +21,7 @@ During my 2-month internship as a **Data Analyst Intern** at Unified Mentor Pvt.
 <p>In this project, I analyzed crop production data from various Indian states. The objective was to understand the distribution of crop production, identify top-producing states, and analyze the seasonal trends in crop production.</p>
 
 <ul>
-    <li><strong>Tools Used:</strong> Python, Pandas, Matplotlib, Seaborn, Plotly Express</li>
+    <li><strong>Tools Used:</strong> Python, Pandas, Matplotlib, Seaborn</li>
     <li><strong>Analyses Conducted:</strong> Total production by state, top crops by production, seasonal crop production, area-wise production</li>
     <li><strong>Outcome:</strong> Generated insights on crop production trends and provided state-wise analysis</li>
 </ul>
